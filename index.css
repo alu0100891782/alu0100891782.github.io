@@ -1,0 +1,47 @@
+#Cabecera{
+	width: 100%;
+	height: 200px;
+	background-color: #000;
+	color: #FFF;
+}
+
+.col-md-3{
+	width: 30%;
+	height: 200px;
+	position: relative;
+	background-color: #a6edde;
+	margin: 100px 30px 100px 30px;
+	padding: 10px;
+
+}
+
+.col-md-3 a{
+	color: #009109;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+.col-md-3 img{
+	max-width: 100%;
+	height: auto;
+}
+.col-md-4 img{
+	width: 130px;
+	max-width: 100%;
+	height: auto;
+	margin: 25px;
+	float: right;
+   border-radius: 50%;
+   transition: all .2s ease-in-out;
+}
+.col-md-4 img:hover{
+	transform: scale(1.1);
+}
+
+.col-md-4 img:hover {
+    box-shadow: 0 0 4px 5px #FFF;
+}
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
