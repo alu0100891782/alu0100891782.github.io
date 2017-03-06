@@ -13,7 +13,7 @@
 
 #Practicas{ 
 	/*width: 560px;*/ 
-	height: 500px; 
+	height: 100%; 
 	background-image: url("./original1.jpg");
 	background-position: 0px 0px;
 	background-repeat: repeat-x repeat-y;
