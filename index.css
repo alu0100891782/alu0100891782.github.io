@@ -8,12 +8,12 @@
 
 @keyframes animatedBackground {
 	from { background-position: 0 0; }
-	to { background-position: 0 100%; }
+	to { background-position: 0 30%; }
 }
 
-#Practicas{ 
-	/*width: 560px;*/ 
-	height: 100%; 
+#Practicas{
+	/*width: 560px;*/
+	height: 100%;
 	background-image: url("./original1.jpg");
 	background-position: 0px 0px;
 	background-repeat: repeat-x repeat-y;
